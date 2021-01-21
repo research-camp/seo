@@ -3,6 +3,9 @@
 Found the usefull "SEO" resources, that I suggest to check.<br />
 
 ## Content
+  * #### Seo do it yourself
+    * [10 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
+    * [Guid to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
   * #### Seo Friendly Pdfs
     * [13 tips](https://www.searchenginejournal.com/pdf-seo-best-practices/59975/)
     * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
