@@ -11,6 +11,8 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
     * [Why PDFs are not ideal for SEO](https://blog.marketmuse.com/why-pdfs-are-not-ideal-for-seo/)
   * #### Tools
+    * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
+    * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
     * [Search Engine Optimization Tools](https://www.capterra.com/sem-compare/seo-software?gclid=CjwKCAiA6aSABhApEiwA6Cbm_4sAAAb5g8rHUveINIgycRPV58lmSCj0pzSWDhk5NAgUHofw-JONRBoCHJ4QAvD_BwE)
 
 # Source Links
