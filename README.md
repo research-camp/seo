@@ -15,6 +15,7 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [Beginners Guide to Seo](https://moz.com/beginners-guide-to-seo)
     * [Steps to a Google friendly site](https://support.google.com/webmasters/answer/40349?hl=en)
     * [Neos Seo](https://github.com/neos/neos-seo)
+    * [Duplicate Content](https://yoast.com/duplicate-content/)
   * #### Tools
     * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
     * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
