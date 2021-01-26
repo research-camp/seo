@@ -6,6 +6,7 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
   * #### Seo do it yourself
     * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
     * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
+    * [9 Essential Rules for SEO Copywriting in 2020](https://www.wordstream.com/blog/ws/2019/12/03/seo-copywriting)
   * #### Seo Friendly Pdfs
     * [13 tips](https://www.searchenginejournal.com/pdf-seo-best-practices/59975/)
     * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
@@ -16,6 +17,7 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [Steps to a Google friendly site](https://support.google.com/webmasters/answer/40349?hl=en)
     * [Neos Seo](https://github.com/neos/neos-seo)
     * [Duplicate Content](https://yoast.com/duplicate-content/)
+    * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
   * #### Tools
     * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
     * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
