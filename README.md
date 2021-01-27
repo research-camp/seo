@@ -1,11 +1,45 @@
-# Seo3000
+# Seo 3000
 
-Found the usefull "SEO" resources, that I suggest to check.<br />
+<p align="center">
+  <img src="https://github.com/amirhnajafiz/Seo3000/blob/master/seo.jpg" width=700 />
+</p>
+
+## Introduction
+<h4>What is Seo ?</h4>
+<p>
+Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. 
+SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. 
+Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines.
+
+As an Internet marketing strategy, SEO considers how search engines work, the computer-programmed algorithms that dictate search engine behavior, what people search for, the actual search terms or keywords typed into search engines, and which search engines are preferred by their targeted audience. SEO is performed because a website will receive more visitors from a search engine when websites rank higher on the search engine results page (SERP). These visitors can then potentially be converted into customers.
+</p>
+
+<a href="https://en.wikipedia.org/wiki/Search_engine_optimization#History">Check the history</a>
+
+<h4>How does Seo work ?</h4>
+<p>
+Search engines such as Google and Bing use bots to crawl pages on the web, going from site to site, collecting information about those pages and putting them in an index. Next, algorithms analyze pages in the index, taking into account hundreds of ranking factors or signals, to determine the order pages should appear in the search results for a given query.
+
+Search ranking factors can be considered proxies for aspects of the user experience. Our Periodic Table of SEO Factors organizes the factors into six main categories and weights each based on its overall importance to SEO. For example, content quality and keyword research are key factors of content optimization, and crawlability and mobile-friendliness are important site architecture factors.
+
+The search algorithms are designed to surface relevant, authoritative pages and provide users with an efficient search experience. Optimizing your site and content with these factors in mind can help your pages rank higher in the search results.
+
+Unlike paid search ads, you can’t pay search engines to get higher organic search rankings.
+</p>
+
+<a href="https://searchengineland.com/guide/what-is-seo">Check the full information</a>
+
+<h4>What is this repository for ?</h4>
+<p>
+Since there are various sources for learning seo, I decided to collect good sources and useful tools of Seo.
+This repository contains all of the subjects you need to know about Seo and tools for using it in your website.
+</p>
 
 ## Content
   * #### Learning Seo
     * [Learn Seo](https://github.com/dwyl/learn-seo)
     * [Beginners Guide to Seo](https://moz.com/beginners-guide-to-seo)
+    * [Basic Learning](https://www.simplilearn.com/digital-marketing/seo-basics-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=378783214504&utm_device=c&utm_campaign=Search-DigitalBusinessCluster-DM-DMDSA-ROW-Main-AllDevice-adgroup-Category&gclid=CjwKCAiAu8SABhAxEiwAsodSZMzaOVf6SiIUzwHJ72irAaRHk4PJEiY6GeWrY-y-IAvY6uGz2qzWYBoCIDoQAvD_BwE)
     * [Steps to a Google friendly site](https://support.google.com/webmasters/answer/40349?hl=en)
     * [Neos Seo](https://github.com/neos/neos-seo)
     * [Duplicate Content](https://yoast.com/duplicate-content/)
