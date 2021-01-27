@@ -3,14 +3,6 @@
 Found the usefull "SEO" resources, that I suggest to check.<br />
 
 ## Content
-  * #### Seo do it yourself
-    * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
-    * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
-    * [9 Essential Rules for SEO Copywriting in 2020](https://www.wordstream.com/blog/ws/2019/12/03/seo-copywriting)
-  * #### Seo Friendly Pdfs
-    * [13 tips](https://www.searchenginejournal.com/pdf-seo-best-practices/59975/)
-    * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
-    * [Why PDFs are not ideal for SEO](https://blog.marketmuse.com/why-pdfs-are-not-ideal-for-seo/)
   * #### Learning Seo
     * [Learn Seo](https://github.com/dwyl/learn-seo)
     * [Beginners Guide to Seo](https://moz.com/beginners-guide-to-seo)
@@ -19,6 +11,14 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [Duplicate Content](https://yoast.com/duplicate-content/)
     * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
     * [Python for Seo](https://www.jcchouinard.com/python-for-seo/)
+  * #### Seo do it yourself
+    * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
+    * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
+    * [9 Essential Rules for SEO Copywriting in 2020](https://www.wordstream.com/blog/ws/2019/12/03/seo-copywriting)
+  * #### Seo Friendly Pdfs
+    * [13 tips](https://www.searchenginejournal.com/pdf-seo-best-practices/59975/)
+    * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
+    * [Why PDFs are not ideal for SEO](https://blog.marketmuse.com/why-pdfs-are-not-ideal-for-seo/)
   * #### Tools
     * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
     * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
@@ -37,3 +37,18 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
   <li><a href="https://trends.google.com/trends/explore" target="blank"> Google Keywords Trends </a></li>
   <li><a href="https://schema.org/docs/schemas.html" target="blank"> Schema site for images </a></li>
 </ul>
+
+# Source Books
+<ol>
+ <li> SEJ’s SEO 101: Learn The Basics of Search Engine Optimization</li><br />
+ <li> The Art of SEO: Mastering Search Engine Optimization</li><br />
+ <li> Search Engine Optimization All-in-One for Dummies</li><br />
+ <li> SEO 2017: Learn Search Engine Optimization With Smart Internet Marketing Strategies</li><br />
+ <li> Marketing in the Age of Google</li><br />
+ <li> Ultimate Guide to Link Building: How to Build Backlinks, Authority and Credibility for Your Website, and Increase Click Traffic and Search Ranking</li><br />
+ <li> The Link Building Book</li><br />
+ <li> Content Machine: Use Content Marketing to Build a 7-Figure Business With Zero Advertising</li><br />
+ <li> Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content</li><br />
+ <li> The Art of Social Media: Power Tips for Power Users</li><br />
+ <li> Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World</li><br />
+</ol>
