@@ -18,6 +18,7 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [Neos Seo](https://github.com/neos/neos-seo)
     * [Duplicate Content](https://yoast.com/duplicate-content/)
     * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
+    * [Python for Seo](https://www.jcchouinard.com/python-for-seo/)
   * #### Tools
     * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
     * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
@@ -26,6 +27,9 @@ Found the usefull "SEO" resources, that I suggest to check.<br />
     * [Google Trends](https://trends.google.com/trends/)
     * [Moz keyword explorer](https://moz.com/explorer)
     * [Google keyword planner](http://adwords.google.com/keywordplanner)
+    * [Seo tools](https://www.verbolia.com/seo-tools/?utm_term=%2Bbest%20%2Bseo%20%2Btools&utm_campaign=Search+-+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=5582735397&hsa_cam=11693895249&hsa_grp=116383019969&hsa_ad=481998358011&hsa_src=g&hsa_tgt=kwd-21454981279&hsa_kw=%2Bbest%20%2Bseo%20%2Btools&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAmL-ABhDFARIsAKywVafRc0rfQ6myyv5Nxa-qPtsQIDz0Ld1_-2Fsf9uGSAEEJjoazEfuDTUaAmXQEALw_wcB)
+    * [Ultimate Seo tools](https://seranking.com/ultimate-seo-tools.html?sou1=Adw&gr1=Search_616700562&tg1=New&kw1=best%20seo%20tool&gclid=Cj0KCQiAmL-ABhDFARIsAKywVaefoZhd_lDeLDGhLvnCtt_svFsKYz6Pjwfrs5Q5yGLEjFfxrohSV74aAqbjEALw_wcB)
+    * [Python Seo Data Refrence](https://www.searchenginejournal.com/python-seo-data-reference-guide/287927/#close)
 
 # Source Links
 <ul>
