@@ -1,7 +1,9 @@
 # Seo 3000
 
 <p align="center">
-  <img src="https://github.com/amirhnajafiz/Seo3000/blob/master/seo.jpg" width=700 />
+  <img src="https://github.com/amirhnajafiz/Seo3000/blob/master/seo.jpg" width=700 /><br />
+  <img src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" width=50 />
+  <img src="https://camo.githubusercontent.com/79ff395e59e194893fea2c005c0c8157c8ee2fb0dde70ae7be6ce1cde044cde8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f706f6463617374732e737667" width=50 />
 </p>
 
 ## Introduction
@@ -42,11 +44,12 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Basic Learning](https://www.simplilearn.com/digital-marketing/seo-basics-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=378783214504&utm_device=c&utm_campaign=Search-DigitalBusinessCluster-DM-DMDSA-ROW-Main-AllDevice-adgroup-Category&gclid=CjwKCAiAu8SABhAxEiwAsodSZMzaOVf6SiIUzwHJ72irAaRHk4PJEiY6GeWrY-y-IAvY6uGz2qzWYBoCIDoQAvD_BwE)
     * [Steps to a Google friendly site](https://support.google.com/webmasters/answer/40349?hl=en)
     * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
-
   * #### Seo do it yourself
     * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
     * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
     * [9 Essential Rules for SEO Copywriting in 2020](https://www.wordstream.com/blog/ws/2019/12/03/seo-copywriting)
+    * [Deep into Seo](https://www.singlegrain.com/seo/effective-seo-techniques-that-work/)
+    * [Advance Seo Techniques](https://neilpatel.com/blog/10-advanced-seo-techniques-thatll-double-your-search-traffic/)
   * #### Seo Friendly Pdfs
     * [13 tips](https://www.searchenginejournal.com/pdf-seo-best-practices/59975/)
     * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
