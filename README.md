@@ -44,6 +44,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Basic Learning](https://www.simplilearn.com/digital-marketing/seo-basics-training-course?utm_source=google&utm_medium=cpc&utm_term=&utm_content=378783214504&utm_device=c&utm_campaign=Search-DigitalBusinessCluster-DM-DMDSA-ROW-Main-AllDevice-adgroup-Category&gclid=CjwKCAiAu8SABhAxEiwAsodSZMzaOVf6SiIUzwHJ72irAaRHk4PJEiY6GeWrY-y-IAvY6uGz2qzWYBoCIDoQAvD_BwE)
     * [Steps to a Google friendly site](https://support.google.com/webmasters/answer/40349?hl=en)
     * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
+    * [5 Easy tips](https://searchengineland.com/seo-simple-child-can-5-easy-steps-237473)
   * #### Seo do it yourself
     * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
     * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
