@@ -96,4 +96,3 @@ This repository contains all of the subjects you need to know about Seo and tool
  <li> The Art of Social Media: Power Tips for Power Users</li><br />
  <li> Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World</li><br />
 </ol>
-
