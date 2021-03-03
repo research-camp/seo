@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction
-<h4>What is Seo ?</h4>
+<h4><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiwo9GD3pPvAhULzXcKHTh-BUAYABAAGgJlZg&ohost=www.google.com&cid=CAESQeD253MtUXmiy4W7FNvwOxrlQ_51PBwljA6FkXK-cmGZb9-QriSX8bza5B--KXnZjxAWB7XloifNh5T13raHfj9i&sig=AOD64_3hN6OKYdT6aZdUjReLrK1VrxSMfg&q&adurl&ved=2ahUKEwjM5cqD3pPvAhVOPOwKHRltAjAQ0Qx6BAgHEAE">What is Seo ?</a></h4>
 <p>
 Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. 
 SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. 
