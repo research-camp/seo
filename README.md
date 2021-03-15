@@ -74,6 +74,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   * #### Other contents
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
     * [YOAST](https://yoast.com/)
+    * [Are getting SEO basics right ?](https://www.semrush.com/blog/seo-basics)
 
 # Source Links
 <ul>
