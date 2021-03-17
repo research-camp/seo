@@ -75,6 +75,8 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
     * [YOAST](https://yoast.com/)
     * [Are getting SEO basics right ?](https://www.semrush.com/blog/seo-basics)
+    * [Customer Journey and SEO](https://www.searchenginejournal.com/customer-journey-seo/351938/)
+    * [The Customer Journey and Search Engine Optimization](https://seoforgrowth.com/customer-journey-seo/)
 
 # Source Links
 <ul>
@@ -83,6 +85,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   <li><a href="https://schema.org/docs/schemas.html" target="blank"> Schema site for images </a></li>
   <li><a href="https://www.searchberg.com/?gclid=Cj0KCQiAmfmABhCHARIsACwPRABxnolCkp9OwQrP2lmy5eVcN7hb7ht7Nvebf8wAog1wHUg3qQMIo4QaAgahEALw_wcB" target="blank"> Seo Service </a></li>
   <li><a href="https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary" target="blank"> SEO 101: What is it ? </a></li>
+  <li><a href="https://samuelschmitt.com/beginner-journey-into-seo/" target="blank"> Samuel Schmitt Journey in SEO </a></li>
 </ul>
 
 # Source Books
