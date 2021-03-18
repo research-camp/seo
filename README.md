@@ -31,6 +31,8 @@ Unlike paid search ads, you can’t pay search engines to get higher organic sea
 
 <a href="https://searchengineland.com/guide/what-is-seo">Check the full information</a>
 
+<a href="https://digitalmarketinginstitute.com/blog/what-is-seo-and-why-is-it-important">What is SEO and Why is it Important ?</a>
+
 <h4>What is this repository for ?</h4>
 <p>
 Since there are various sources for learning seo, I decided to collect good sources and useful tools of Seo.
@@ -77,6 +79,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Are getting SEO basics right ?](https://www.semrush.com/blog/seo-basics)
     * [Customer Journey and SEO](https://www.searchenginejournal.com/customer-journey-seo/351938/)
     * [The Customer Journey and Search Engine Optimization](https://seoforgrowth.com/customer-journey-seo/)
+    * [12 Reasons Why SEO is importent for business](https://www.searchenginejournal.com/why-seo-is-important-for-business/248101/)
 
 # Source Links
 <ul>
