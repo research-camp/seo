@@ -104,4 +104,5 @@ This repository contains all of the subjects you need to know about Seo and tool
  <li> Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content</li><br />
  <li> The Art of Social Media: Power Tips for Power Users</li><br />
  <li> Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World</li><br />
+  <li>Mastering in-house SEO, Simon Schnieders</li><br />
 </ol>
