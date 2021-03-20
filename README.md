@@ -97,6 +97,7 @@ This repository contains all of the subjects you need to know about Seo and tool
  <li> The Art of SEO: Mastering Search Engine Optimization</li><br />
  <li> Search Engine Optimization All-in-One for Dummies</li><br />
  <li> SEO 2017: Learn Search Engine Optimization With Smart Internet Marketing Strategies</li><br />
+ <li> Seo 2018 Learn Search Engine Optimization With Smart Internet Marketing Strateg by Adam Clarke</li><br />
  <li> Marketing in the Age of Google</li><br />
  <li> Ultimate Guide to Link Building: How to Build Backlinks, Authority and Credibility for Your Website, and Increase Click Traffic and Search Ranking</li><br />
  <li> The Link Building Book</li><br />
