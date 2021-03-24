@@ -73,6 +73,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Python for Seo](https://www.jcchouinard.com/python-for-seo/)
     * [Duplicate Content](https://yoast.com/duplicate-content/)
     * [Website SEO checker](https://www.semrush.com/lp/site-audit-new/en/?kw=%2Bseo%20%2Bsite%20%2Breport&cmp=WW_SRCH_Site_Audit_EN&label=site_audit&Network=g&Device=c&utm_content=455422558317&kwid=kwd-38285303472&cmpid=10803399811&agpid=113197629344&BU=Core&extid=&adpos=&gclid=CjwKCAiAjeSABhAPEiwAqfxURRKFQvjhM1oz3FhtqsoG-JzMiZ1I9OIFW11RnYL0kAoCuz3p7C_kWxoCtocQAvD_BwE)
+    * [Automate your SEO reporting and dashboards with Supermetrics](https://supermetrics.com/seo?utm_source=google&utm_medium=cpc&utm_campaign=searchremarketing&utm_adgroup=seo&utm_category=adw-retargeting&utm_term=seo&location=&gclid=CjwKCAjwxuuCBhATEiwAIIIz0fugraPMiMTVS5_Nv2NJUm-lkNKx2jslq7g4SMR6TZ0UE0IPrKpG5hoCZnYQAvD_BwE)
   * #### Other contents
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
     * [YOAST](https://yoast.com/)
