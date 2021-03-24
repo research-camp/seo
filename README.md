@@ -81,6 +81,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [The Customer Journey and Search Engine Optimization](https://seoforgrowth.com/customer-journey-seo/)
     * [12 Reasons Why SEO is importent for business](https://www.searchenginejournal.com/why-seo-is-important-for-business/248101/)
     * [22 Reasons why your search ranking drops](https://www.searchenginejournal.com/why-search-rankings-traffic-drop/264617/)
+    * [22 essentials you need for optimizing your site](https://www.searchenginewatch.com/2016/01/21/seo-basics-22-essentials-you-need-for-optimizing-your-site/)
 
 # Source Links
 <ul>
