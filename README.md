@@ -85,6 +85,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [22 essentials you need for optimizing your site](https://www.searchenginewatch.com/2016/01/21/seo-basics-22-essentials-you-need-for-optimizing-your-site/)
     * [11 Most Common On-Site SEO Mistakes](https://www.semrush.com/blog/semrush-study-on-site-seo-issues/?kw=&cmp=EE_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=484311153250&kwid=dsa-1057183196355&cmpid=11776420745&agpid=113999302226&BU=Core&extid=167385106020&adpos=&gclid=CjwKCAjw6fCCBhBNEiwAem5SOz6tfLpKuK9fihFdf4d-XUokqUm8bF-u_TsGe72bmO5poNQc-VBhZRoCWwoQAvD_BwE)
     * [Good vs Bad SEO: How to Not Get Penalized](https://www.spiralytics.com/blog/good-vs-bad-seo-not-get-penalized/)
+    * [What Is Negative SEO? (And How To Tackle It)](https://www.semrush.com/blog/what-is-negative-seo/?kw=&cmp=EE_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=484308653496&kwid=dsa-1053501807827&cmpid=11776420745&agpid=113999312786&BU=Core&extid=167385869633&adpos=&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgemOZwJpe1hhebfvvoEf10CuJsQpN7jyvHH8fFaBH9ySbHa69ToyEhoCxp0QAvD_BwE)
 
 # Source Links
 <ul>
