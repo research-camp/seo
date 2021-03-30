@@ -87,6 +87,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Good vs Bad SEO: How to Not Get Penalized](https://www.spiralytics.com/blog/good-vs-bad-seo-not-get-penalized/)
     * [What Is Negative SEO? (And How To Tackle It)](https://www.semrush.com/blog/what-is-negative-seo/?kw=&cmp=EE_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=484308653496&kwid=dsa-1053501807827&cmpid=11776420745&agpid=113999312786&BU=Core&extid=167385869633&adpos=&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgemOZwJpe1hhebfvvoEf10CuJsQpN7jyvHH8fFaBH9ySbHa69ToyEhoCxp0QAvD_BwE)
     * [10 Ways to improve SEO in 2021](https://www.semrush.com/blog/improve-seo/?kw=&cmp=EE_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=484308655416&kwid=aud-298650603765:dsa-1053501806547&cmpid=11776420745&agpid=113999315266&BU=Core&extid=167385869672&adpos=&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGaigE_F04Wof-nuRgIRRqSDSAjHjl6r-19Am2qARkMy0KnM4-TxuAEaArZwEALw_wcB)
+    * [Get more sales and rank higher on search](https://www.brandpush.co/?utm_source=GoogleAds&utm_medium=Search&utm_campaign=BP%20-%20Search%20CPA&utm_term=SEO&utm_content=Responsive%20Ad&campaignid=12047018827&adgroupid=116408986539&adid=490886406941&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_79JrL4w5Sq3KvETAMLRPHA8WBl1YLHX9qrxmaAroQH3w8Uc1-D50gaArSoEALw_wcB)
 
 # Source Links
 <ul>
