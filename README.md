@@ -48,6 +48,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Ultimate WordPress SEO Guide for Beginners](https://www.wpbeginner.com/wordpress-seo/)
     * [5 Easy tips](https://searchengineland.com/seo-simple-child-can-5-easy-steps-237473)
     * [Basic Seo](https://ahrefs.com/blog/seo-basics/)
+    * [An Overview of SEO](https://www.bluehost.com/blog/an-overview-of-seo/?utm_source=google&utm_medium=genericsearch&gclid=CjwKCAjwgZuDBhBTEiwAXNofRMWTELURMGQmfTNIeGz8A-lD74BhiyfXBWjurpGFtCogGCtR0o7YghoClMkQAvD_BwE&gclsrc=aw.ds)
   * #### Seo do it yourself
     * [11 Do it yourself](https://www.practicalecommerce.com/10-do-it-yourself-seo-tips-to-save-money)
     * [Guide to Seo](https://neilpatel.com/blog/simple-guide-to-seo/)
