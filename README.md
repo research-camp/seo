@@ -101,6 +101,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   <li><a href="https://moz.com/beginners-guide-to-seo/why-search-engine-marketing-is-necessary" target="blank"> SEO 101: What is it ? </a></li>
   <li><a href="https://samuelschmitt.com/beginner-journey-into-seo/" target="blank"> Samuel Schmitt Journey in SEO </a></li>
   <li><a href="https://www.udemy.com/courses/marketing/search-engine-optimization/" target="blank"> Udmey Course </a></li>
+  <li><a href="https://www.linkedin.com/learning/seo-link-building" target="blank"> SEO: link building Course By Anson Alexander </a></li>
 </ul>
 
 # Source Books
