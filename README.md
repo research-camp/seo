@@ -77,7 +77,6 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Automate your SEO reporting and dashboards with Supermetrics](https://supermetrics.com/seo?utm_source=google&utm_medium=cpc&utm_campaign=searchremarketing&utm_adgroup=seo&utm_category=adw-retargeting&utm_term=seo&location=&gclid=CjwKCAjwxuuCBhATEiwAIIIz0fugraPMiMTVS5_Nv2NJUm-lkNKx2jslq7g4SMR6TZ0UE0IPrKpG5hoCZnYQAvD_BwE)
     * [Check your website SEO](https://web.dev/measure/?gclid=CjwKCAjwu5CDBhB9EiwA0w6sLUmhN6YJvbxQmpOCJVAs3v20ou5ZwUiZnpkIwCce4ZO6GowMO8P2gxoCzRsQAvD_BwE)
     * [Keyword Research & Analysis Tools](https://www.similarweb.com/corp/marketing/keyword-research/?utm_source=adwords&utm_medium=paid&utm_content=seotool&utm_campaign=gs_seotool_europe_dsk_nt&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rDGvcuvqZNtIljJdxTwP6WMhYLlI3v5qBm1V_gnfjGnQAlrgKhUFjBoCGRAQAvD_BwE)
-    * [Automate your SEO reporting and dashboards with Supermetrics](https://supermetrics.com/seo?utm_source=google&utm_medium=cpc&utm_campaign=searchremarketing&utm_adgroup=seo&utm_category=adw-retargeting&utm_term=seo%20marketing&location=&gclid=CjwKCAjw6qqDBhB-EiwACBs6x-sUXTrbh4y5_Z7XRO9f9tqHayjmMiDpZetC0Vf_iag62-2_1VDMzhoCC_QQAvD_BwE)
   * #### Other contents
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
     * [YOAST](https://yoast.com/)
