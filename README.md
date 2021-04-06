@@ -92,6 +92,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [10 Ways to improve SEO in 2021](https://www.semrush.com/blog/improve-seo/?kw=&cmp=EE_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=484308655416&kwid=aud-298650603765:dsa-1053501806547&cmpid=11776420745&agpid=113999315266&BU=Core&extid=167385869672&adpos=&gclid=Cj0KCQjw9YWDBhDyARIsADt6sGaigE_F04Wof-nuRgIRRqSDSAjHjl6r-19Am2qARkMy0KnM4-TxuAEaArZwEALw_wcB)
     * [Get more sales and rank higher on search](https://www.brandpush.co/?utm_source=GoogleAds&utm_medium=Search&utm_campaign=BP%20-%20Search%20CPA&utm_term=SEO&utm_content=Responsive%20Ad&campaignid=12047018827&adgroupid=116408986539&adid=490886406941&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_79JrL4w5Sq3KvETAMLRPHA8WBl1YLHX9qrxmaAroQH3w8Uc1-D50gaArSoEALw_wcB)
     * [How to Get SEO Clients from Just 1 Hour a Day](https://growhackscale.com/blog/how-to-get-seo-clients)
+    * [Best SEO Software](https://www.g2.com/categories/seo)
 
 # Source Links
 <ul>
