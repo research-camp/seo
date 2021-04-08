@@ -60,8 +60,6 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [How to do](https://www.contentkingapp.com/academy/seo-optimize-your-pdf-files/)
     * [Why PDFs are not ideal for SEO](https://blog.marketmuse.com/why-pdfs-are-not-ideal-for-seo/)
   * #### Tools
-    * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
-    * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
     * [Search Engine Optimization Tools](https://www.capterra.com/sem-compare/seo-software?gclid=CjwKCAiA6aSABhApEiwA6Cbm_4sAAAb5g8rHUveINIgycRPV58lmSCj0pzSWDhk5NAgUHofw-JONRBoCHJ4QAvD_BwE)
     * [Seo Service](https://seosherpa.com/services/?utm_source=google&utm_medium=cpc&utm_campaign=adwords_express&utm_term=&utm_content=The_leaders_in_Dubai_SEO&gclid=Cj0KCQiA0rSABhDlARIsAJtjfCcidOJUk9kmGCYSTps2eN4zzM94aCAdjI2t-dkNBcmVA4jZYWXzomYaAsFcEALw_wcB)
     * [Google Trends](https://trends.google.com/trends/)
@@ -77,9 +75,12 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [Automate your SEO reporting and dashboards with Supermetrics](https://supermetrics.com/seo?utm_source=google&utm_medium=cpc&utm_campaign=searchremarketing&utm_adgroup=seo&utm_category=adw-retargeting&utm_term=seo&location=&gclid=CjwKCAjwxuuCBhATEiwAIIIz0fugraPMiMTVS5_Nv2NJUm-lkNKx2jslq7g4SMR6TZ0UE0IPrKpG5hoCZnYQAvD_BwE)
     * [Check your website SEO](https://web.dev/measure/?gclid=CjwKCAjwu5CDBhB9EiwA0w6sLUmhN6YJvbxQmpOCJVAs3v20ou5ZwUiZnpkIwCce4ZO6GowMO8P2gxoCzRsQAvD_BwE)
     * [Keyword Research & Analysis Tools](https://www.similarweb.com/corp/marketing/keyword-research/?utm_source=adwords&utm_medium=paid&utm_content=seotool&utm_campaign=gs_seotool_europe_dsk_nt&gclid=CjwKCAjw3pWDBhB3EiwAV1c5rDGvcuvqZNtIljJdxTwP6WMhYLlI3v5qBm1V_gnfjGnQAlrgKhUFjBoCGRAQAvD_BwE)
+  * #### SEO in Wordpress 
+    * [Wordpress Seo Plugin](https://wordpress.org/plugins/wordpress-seo/)
+    * [Wordpress RankBear](https://rankbear.com/?gclid=CjwKCAiAr6-ABhAfEiwADO4sfan1aAA7DGPpOHD3VbW9RRW75ACAoFBlQBiwsWCVSbd0MQy6sMrNBhoCW0EQAvD_BwE)
+    * [YOAST](https://yoast.com/)
   * #### Other contents
     * [10 things SEO is not](https://infomedia.com/blog/10-things-seo-is-not/)
-    * [YOAST](https://yoast.com/)
     * [Are getting SEO basics right ?](https://www.semrush.com/blog/seo-basics)
     * [Customer Journey and SEO](https://www.searchenginejournal.com/customer-journey-seo/351938/)
     * [The Customer Journey and Search Engine Optimization](https://seoforgrowth.com/customer-journey-seo/)
