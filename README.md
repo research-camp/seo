@@ -124,4 +124,5 @@ This repository contains all of the subjects you need to know about Seo and tool
  <li> Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World</li><br />
  <li>Mastering in-house SEO, Simon Schnieders</li><br />
  <li>3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google, Will Coombe</li><br />
+  <li>SEO Fitness Workbook: The Seven Steps to Search Engine Optimization, Jason McDonald</li><br />
 </ol>
