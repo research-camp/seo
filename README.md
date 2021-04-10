@@ -106,6 +106,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   <li><a href="https://samuelschmitt.com/beginner-journey-into-seo/" target="blank"> Samuel Schmitt Journey in SEO </a></li>
   <li><a href="https://www.udemy.com/courses/marketing/search-engine-optimization/" target="blank"> Udmey Course </a></li>
   <li><a href="https://www.linkedin.com/learning/seo-link-building" target="blank"> SEO: link building Course By Anson Alexander </a></li>
+  <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiO1b6gofPvAhVTyzgGHbnsAj8QwqsBMBF6BAguEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOYRkIGaP80M&usg=AOvVaw2hG5eg7EtV_JsRn5btq-xj" target="blank"> Complete SEO Course for beginners </a></li>
 </ul>
 
 # Source Books
