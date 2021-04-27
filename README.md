@@ -96,7 +96,7 @@ This repository contains all of the subjects you need to know about Seo and tool
     * [How to Get SEO Clients from Just 1 Hour a Day](https://growhackscale.com/blog/how-to-get-seo-clients)
     * [Best SEO Software](https://www.g2.com/categories/seo)
 
-# Source Links
+## Source Links
 <ul>
   <li><a href="https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fseo-foundations-2%3Ftrk%3Dshare_ent_url%26shareId%3D934094eb-7823-4abd-8e88-6722975e2040" target="blank"> Linkedin Seo Course By "David Booth" </a></li>
   <li><a href="https://trends.google.com/trends/explore" target="blank"> Google Keywords Trends </a></li>
@@ -109,7 +109,7 @@ This repository contains all of the subjects you need to know about Seo and tool
   <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiO1b6gofPvAhVTyzgGHbnsAj8QwqsBMBF6BAguEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOYRkIGaP80M&usg=AOvVaw2hG5eg7EtV_JsRn5btq-xj" target="blank"> Complete SEO Course for beginners </a></li>
 </ul>
 
-# Source Books
+## Source Books
 <ol>
  <li> SEJ’s SEO 101: Learn The Basics of Search Engine Optimization</li><br />
  <li> The Art of SEO: Mastering Search Engine Optimization</li><br />
