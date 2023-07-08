@@ -1,5 +1,3 @@
-# Seo 3000
-
 <p align="center">
   <img src="https://github.com/amirhnajafiz/Seo3000/blob/master/seo.jpg" width=700 /><br />
   <img src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" width=50 />
